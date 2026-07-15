@@ -1,0 +1,6 @@
+{
+  "name": "VeriFact AI",
+  "description": "Real-time AI-powered misinformation detection system, featuring dynamic credibility analysis, interactive dashboards, and transparent fact-checking details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
